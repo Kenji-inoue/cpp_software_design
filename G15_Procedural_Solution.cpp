@@ -24,7 +24,7 @@ struct Point
 
 enum ShapeType
 {
-   circle,
+   circle,bbb
    square
 };
 
